@@ -1,0 +1,2 @@
+# eslint_pretty_husky
+练习联盟eslint pretty和提交钩子校验husky
